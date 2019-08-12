@@ -11,3 +11,5 @@ To run docker image with tarantool for this API run script:
 To configure API server you can change config file
 
     nano config/config.json
+# Deployment
+https://tarantool.hackallcode.ru

@@ -1,6 +1,7 @@
 package config
 
 var paths = []string{
+	"./config.json",
 	"./config/config.json",
 	"../config/config.json",
 	"../../config/config.json",
